@@ -1,6 +1,6 @@
 '''
 coded by : Rakeeb
-coded for: study of Q-R decomposition
+coded for: implimenting relaxation method
 '''
 
 #can't find why this code is going in infinite loop.
